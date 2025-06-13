@@ -1,3 +1,7 @@
+/*
+*2025 June 13
+*Author Sage
+*/
 import java.util.Scanner;
 public class Fibonacci {
     public static void main(String[] args) {
@@ -5,7 +9,7 @@ public class Fibonacci {
         System.out.println("Enter the number of terms you want:");
 
         int n = input.nextInt();
-        int first = 0;//
+        int first = 0;
         int second = 1;  
        System.out.print(first + " " + second);
        
